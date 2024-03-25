@@ -1,0 +1,46 @@
+{
+	"name": "com.ellyality.visual.crest",
+	"displayName":"Crest",
+	"version": "1.0.0",
+    "author": "Elly Visual",
+    "unity": "2019.2",
+    "keywords": ["ocean", "crest", "shader", "visual"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Ocean object solution",
+    "documentationUrl": "https://github.com/Ellyality/package_crest/blob/main/README.md",
+    "samples":[
+        {
+            "displayName": "Boat Dev",
+            "description": "Boat demo scene",
+            "path": "crest/Crest/~Crest-Example/BoatDev"
+        },
+		{
+            "displayName": "Examples",
+            "description": "All the examples scene",
+            "path": "crest/Crest/~Crest-Example/Examples"
+        },
+		{
+            "displayName": "Lake Scene",
+            "description": "Lake and rivers",
+            "path": "crest/Crest/~Crest-Example/LakesAndRivers"
+        },
+		{
+            "displayName": "Main",
+            "description": "Main Ocean",
+            "path": "crest/Crest/~Crest-Example/Main"
+        },
+		{
+            "displayName": "Whirlpool",
+            "description": "Whirlpool example scene",
+            "path": "crest/Crest/~Crest-Example/Whirlpool"
+        },
+		{
+            "displayName": "Shared Assets",
+            "description": "Demo scenes shared assets",
+            "path": "crest/Crest/~Crest-Example/Shared"
+        }
+    ],
+    "dependencies": {
+    }
+}
