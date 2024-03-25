@@ -14,7 +14,7 @@ namespace Crest.Internal
     public static class Constants
     {
         const string PREFIX = "Crest ";
-        public const string MENU_SCRIPTS = "Scripts/Crest/";
+        public const string MENU_SCRIPTS = "Ellyality/Visual/Ocean/";
         public const string MENU_PREFIX_SCRIPTS = MENU_SCRIPTS + PREFIX;
         public const string MENU_PREFIX_INTERNAL = MENU_SCRIPTS + "Internal/";
         public const string MENU_PREFIX_DEBUG = MENU_SCRIPTS + "Debug/" + PREFIX;
